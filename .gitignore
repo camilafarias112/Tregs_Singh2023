@@ -1,0 +1,11 @@
+*.DS_Store
+*.RData
+*.Rhistory
+*.RDataTmp
+*.rds
+
+/.Rproj.user
+/Liu2022_Tregs_Robjects/.Rproj.user
+
+#Specific files:
+/Unavailable
