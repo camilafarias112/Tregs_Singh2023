@@ -3,6 +3,7 @@
 *.Rhistory
 *.RDataTmp
 *.rds
+*.RProj
 
 /.Rproj.user
 /Liu2022_Tregs_Robjects/.Rproj.user
