@@ -2,7 +2,7 @@
 
 This is the R code associated with the human sequencing datasets in:
 
-<p align="center"><strong>Foxp3+ regulatory T cells limit <i>Staphylococcus</i> aureus colonization and disease severity of cutaneous leishmaniasis</strong></p>
+<p align="center"><strong>Regulatory T cells control <i>Staphylococcus aureus</i> and disease severity of cutaneous leishmaniasis</strong></p>
 <p align="center"><em>Tej Pratap Singh, Camila Farias Amorim, Victoria Lovins, Charles W Bradley, Lucas P. Carvalho, Edgar M. Carvalho, Elizabeth A. Grice, and Phillip Scott</em></p>
 
 <p>J Exp Med (2023) 220 (12): e20230558, https://doi.org/10.1084/jem.20230558</p>
